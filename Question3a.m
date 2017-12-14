@@ -1,4 +1,4 @@
-%Author: 9563426
+%Author: T. Hollis
 %Subject: Digital Mobile Communications
 
 %1. Set up global variables
